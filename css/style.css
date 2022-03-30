@@ -17,7 +17,8 @@ p {
 .container {
   text-align: center;
 }
-ul {
+ul,
+.netlifylink {
   display: inline-block;
 }
 li {
@@ -28,10 +29,15 @@ li {
   padding: 10px;
 }
 .layout_thumbnail {
-  padding: 10px;
-  margin: 10px;
+  /* padding: 10px; */
+
   border: 2px solid black;
+  border-radius: 25px;
 }
 .netlifylink {
   text-decoration: none;
+  margin: 10px;
+  text-transform: uppercase;
+  font-size: 0.9em;
+  /* border: 1px solid lightskyblue; */
 }
