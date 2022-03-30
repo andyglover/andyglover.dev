@@ -29,5 +29,9 @@ li {
 }
 .layout_thumbnail {
   padding: 10px;
+  margin: 10px;
   border: 2px solid black;
+}
+.netlifylink {
+  text-decoration: none;
 }
