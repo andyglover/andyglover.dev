@@ -7,6 +7,9 @@ p {
   font-family: "Roboto", sans-serif;
 }
 
+.socialLinks img {
+  padding: 10px;
+}
 .portrait {
   display: block;
   margin: 0 auto;
