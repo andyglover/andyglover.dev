@@ -35,6 +35,10 @@ li {
 .instagram_picture {
   padding: 10px;
 }
+
+.instagram_picture:hover {
+  opacity: 0.75;
+}
 .layout_thumbnail {
   /* padding: 10px; */
 
