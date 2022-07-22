@@ -10,6 +10,10 @@ p {
 .socialLinks img {
   padding: 10px;
 }
+
+.socialLinks img:hover{
+  opacity: 0.75;
+}
 .portrait {
   display: block;
   margin: 0 auto;
