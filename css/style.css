@@ -47,9 +47,14 @@ li {
   border-radius: 25px;
 }
 .netlifylink {
-  text-decoration: none;
   margin: 10px;
   text-transform: uppercase;
   font-size: 0.9em;
   /* border: 1px solid lightskyblue; */
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
 }
