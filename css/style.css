@@ -7,11 +7,9 @@ p {
   text-align: center;
   font-family: "Roboto", sans-serif;
 }
-
 .socialLinks img {
   padding: 10px;
 }
-
 .socialLinks img:hover{
   opacity: 0.75;
 }
@@ -21,7 +19,6 @@ p {
   border-radius: 125px;
   border: 5px solid black;
 }
-
 .center-container{
   display:flex; align-items: center; justify-content: center;
 }
