@@ -22,7 +22,19 @@ p {
   border: 5px solid black;
 }
 
-.container {
+.center-container{
+  display:flex; align-items: center; justify-content: center;
+}
+.pictures-container {
+  display:grid;
+  grid-template-columns: repeat(3, clamp(1px,33%,250px));
+  gap: 10px;
+  align-content: center;
+}
+.instagram-container img{
+  width:100%;
+}
+.layouts-container{
   text-align: center;
 }
 ul,
@@ -33,16 +45,11 @@ li {
   display: inline;
   list-style-type: none;
 }
-.instagram_picture {
-  padding: 10px;
-}
-
 .instagram_picture:hover {
   opacity: 0.75;
 }
 .layout_thumbnail {
-  /* padding: 10px; */
-
+  padding: 10px;
   border: 2px solid black;
   border-radius: 25px;
 }
