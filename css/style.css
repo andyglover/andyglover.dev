@@ -26,10 +26,10 @@ p {
   display:flex; align-items: center; justify-content: center;
 }
 .pictures-container {
+  padding:10px;
   display:grid;
   grid-template-columns: repeat(3, clamp(1px,33%,250px));
   gap: 10px;
-  align-content: center;
 }
 .instagram-container img{
   width:100%;
