@@ -1,11 +1,9 @@
 # ANDYGLOVER.DEV
 This is my developer website, which will also serve as my professional portfolio. It's got some social media links and pictures for now, more to come!
 
+**Link to project:** http://www.andyglover.dev
+
 ![Thumbnail](./img/project-screenshot.png "screenshot of andyglover.dev")
-
-This is my website.
-
-This project is published at: http://www.andyglover.dev
 
 ## How It's Made:
 
