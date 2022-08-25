@@ -22,8 +22,12 @@ This was my first time using CSS grid, and I think one of the first times I used
 ## Examples:
 Here's a few more repositories of mine you might like to check out:
 
+**Calculator:** https://github.com/andyglover/odin-calculator
+
 **Rock Paper Scissors:** https://github.com/andyglover/odin-rock-paper-scissors
 
 **GIF Thingy:** https://github.com/andyglover/gif-thingy
 
-**Calculator:** https://github.com/andyglover/odin-calculator
+**Admin Dashboard:** https://github.com/andyglover/odin-project-admin-dashboard
+
+**ANDYGLOVER.IO:** https://github.com/andyglover/andyglover.github.io
