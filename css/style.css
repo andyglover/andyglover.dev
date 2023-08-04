@@ -9,7 +9,7 @@ p {
 .socialLinks img {
   padding: 10px;
 }
-.socialLinks img:hover{
+.socialLinks img:hover {
   opacity: 0.75;
 }
 .portrait {
@@ -18,18 +18,20 @@ p {
   border-radius: 125px;
   border: 5px solid black;
 }
-.center-container{
-  display:flex; align-items: center; justify-content: center;
+.center-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .pictures-container {
-  display:grid;
-  grid-template-columns: repeat(3,fit-content(33%));
+  display: grid;
+  grid-template-columns: repeat(3, fit-content(33%));
   gap: 10px;
 }
-.instagram-container img{
-  width:100%;
+.instagram-container img {
+  width: 100%;
 }
-.layouts-container{
+.layouts-container {
   text-align: center;
 }
 ul,
@@ -59,4 +61,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
+}
+:root {
+  color-scheme: light dark;
 }
